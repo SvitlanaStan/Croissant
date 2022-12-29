@@ -12,9 +12,16 @@ p {
 
 img {
   display: block;
+  padding: 30px;
 }
 
 a {
   text-decoration: none;
-  color: red;
+  color: purple;
+  margin: 10px;
+  padding: 20px;
+}
+
+footer {
+  text-align: center;
 }
