@@ -10,18 +10,19 @@ p {
   text-align: center;
 }
 
-img {
-  display: block;
-  padding: 30px;
-}
-
 a {
+  text-align: center;
+  display: block;
+  margin: auto;
+  padding: 20px;
   text-decoration: none;
   color: purple;
-  margin: 10px;
-  padding: 20px;
 }
 
-footer {
+.croissant-photo {
+  border-radius: 10px;
   text-align: center;
+  width: 30%;
+  display: block;
+  margin: auto;
 }
